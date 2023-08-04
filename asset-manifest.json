@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dogshop/static/css/main.22f30ed1.css",
-    "main.js": "/dogshop/static/js/main.71ac9fc6.js",
+    "main.css": "/dogshop/static/css/main.8843dd47.css",
+    "main.js": "/dogshop/static/js/main.e1dc26d3.js",
     "static/js/787.23170c61.chunk.js": "/dogshop/static/js/787.23170c61.chunk.js",
     "static/media/img1.png": "/dogshop/static/media/img1.2cbc268d38959c4413ce.png",
     "static/media/slick.svg": "/dogshop/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/dogshop/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/dogshop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/dogshop/index.html",
-    "main.22f30ed1.css.map": "/dogshop/static/css/main.22f30ed1.css.map",
-    "main.71ac9fc6.js.map": "/dogshop/static/js/main.71ac9fc6.js.map",
+    "main.8843dd47.css.map": "/dogshop/static/css/main.8843dd47.css.map",
+    "main.e1dc26d3.js.map": "/dogshop/static/js/main.e1dc26d3.js.map",
     "787.23170c61.chunk.js.map": "/dogshop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22f30ed1.css",
-    "static/js/main.71ac9fc6.js"
+    "static/css/main.8843dd47.css",
+    "static/js/main.e1dc26d3.js"
   ]
 }
